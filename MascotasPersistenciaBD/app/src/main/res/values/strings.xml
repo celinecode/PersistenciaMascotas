@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MisMascotas</string>
+    <string name="texto_boton">Click!</string>
+    <string name="texto_titulo">Hola mundo</string>
+    <string name="mensaje">Favorito</string>
+    <string name="star_button">Star</string>
+    <string name="texto_accion">Acción</string>
+    <string name="likeButton">Likes rate</string>
+    <string name="likeDesc">Likes number</string>
+    <string name="action_fav">Like</string>
+</resources>
